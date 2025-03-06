@@ -1,0 +1,14 @@
+Setup and Running Instructions:
+
+1. Unzip the provided folder into a convenient location on your computer.
+2. Inside the unzipped folder, double-click the run_app file. This will initiate the setup and start the application.
+Please note: The very first run can take approximately 5–10 minutes as the environment sets up. If the process stops or closes prematurely, simply double-click run_app again to continue.
+3. Once fully set up, a web browser window will open automatically, displaying the Mentor-Mentee Matching Tool.
+
+Stopping the Application:
+
+To stop the application, return to the terminal or command prompt window that opened automatically when you ran run_app, and press CTRL + C. After that, you may close the browser window.
+
+Subsequent Runs:
+
+Subsequent runs of the tool will be significantly faster, typically launching within a few seconds.
